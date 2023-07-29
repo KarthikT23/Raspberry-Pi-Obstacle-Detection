@@ -21,7 +21,8 @@ e) OpenCV
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Obstacle-Detection/assets/119528503/f78ef6b0-3fab-433d-b231-212f67535fe0)
 
 # PIR Sensor
-![image](https://github.com/KarthikT23/Raspberry-Pi-Obstacle-Detection/assets/119528503/ff31286f-2c21-422a-bbeb-169abf5857c8)
+![image](https://github.com/KarthikT23/Raspberry-Pi-Obstacle-Detection/assets/119528503/19ead74f-5b2f-42e7-bd68-943d710af342)
+
 
 # OpenCV
 ![image](https://github.com/KarthikT23/Raspberry-Pi-Obstacle-Detection/assets/119528503/edf82a48-4abc-49a8-88b0-e8b62e71f82b)
